@@ -5,8 +5,7 @@
   Hi! I'm MyeongGyu Woo. I majored in computer science.</br> 
   I'm a Prospective developers that will growing.
 </p>
-
-</br></br>
+</br>
 <h2 align="center">📚TECHNOLOGY STACK📚</h2>
 <p align="center">Skills that I used at <span color="red">least once<span></p>
 
