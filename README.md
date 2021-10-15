@@ -4,6 +4,8 @@
 
 
 <h2 align="center">TECHNOLOGY STACK</h2>
+<p>Skills that I used at least once</p>
+
 <h3 align="center">WEB Languages</h3>
 <p align="center"><img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=Html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=Css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></p>
 
