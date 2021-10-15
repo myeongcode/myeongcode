@@ -3,10 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=9BC3FF&height=300&section=header&text=Myeong%20Code&fontSize=90)
 
 
-<h2 align="center">
-  <p>TECHNOLOGY STACK<p>
-  <p color="red">Skills that I used at least once</p>
-</h2>
+<h2 align="center">TECHNOLOGY STACK</h2>
 
 
 <h3 align="center">WEB Languages</h3>
