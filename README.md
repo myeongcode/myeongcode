@@ -1,6 +1,6 @@
 ⚠Under construction⚠
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=9BC3FF&height=250&section=header&text=Myeong%20Code&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=9BC3FF&height=250&section=header&text=Myeong%20Code&fontSize=60&animation=fadeIn)
 <p align="center">
   🙌Hi! I'm MyeongGyu Woo. I majored in computer science.🖥</br> 
   I'm <strong>a Prospective developers</strong> that will growing‼.
