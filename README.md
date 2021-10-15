@@ -5,7 +5,7 @@
 
 <h2 align-"center">
   <p>TECHNOLOGY STACK<p>
-  <span text-size="1px">Skills that I used at least once</span>
+  <p color="red">Skills that I used at least once</p>
 </h2>
 
 
