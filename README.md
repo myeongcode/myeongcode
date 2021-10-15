@@ -4,7 +4,7 @@
 
 
 <h2 align-"center">>
-  <pTECHNOLOGY STACK<p>
+  <p>TECHNOLOGY STACK<p>
   <span text-size="10px">Skills that I used at least once</span>
 </h2>
 
