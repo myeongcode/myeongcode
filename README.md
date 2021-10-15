@@ -1,6 +1,7 @@
 ⚠Under construction⚠
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=black"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=Html&logoColor=white"/></a>&nbsp 
 
 <!--
 **myeongcode/myeongcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
