@@ -15,7 +15,7 @@
 <h3 align="center">PP Languages</h3>
 <p align="center"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> </p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=9BC3FF&height=300&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=9BC3FF&height=100&section=footer)
 
 <!--
 **myeongcode/myeongcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
