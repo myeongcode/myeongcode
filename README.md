@@ -1,9 +1,9 @@
 ⚠Under construction⚠
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=9BC3FF&height=300&section=header&text=Myeong%20Code&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=9BC3FF&height=300&section=header&text=Myeong%10Code&fontSize=90)
 
 
-<h2 align="center">TECHNOLOGY STACK</h2>
+<h2 align="center">📚TECHNOLOGY STACK📚</h2>
 <p align="center">Skills that I used at <span color="red">least once<span></p>
 
 <h3 align="center">WEB</h3>
