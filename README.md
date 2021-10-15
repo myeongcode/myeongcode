@@ -1,17 +1,17 @@
 ⚠Under construction⚠
 
 
-<h2>TECH STACK</h2>
-<h3>WEB Languages</h3>
-<p><img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=Html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=Css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></p>
+<h2 align="center">TECH STACK</h2>
+<h3 align="center">WEB Languages</h3>
+<p align="center"><img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=Html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=Css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></p>
 
 
-<h3>OOP Languages</h3>
-<p><img src="https://img.shields.io/badge/Java-007396C?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> </p>
+<h3 align="center">OOP Languages</h3>
+<p align="center"><img src="https://img.shields.io/badge/Java-007396C?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> </p>
 
 
-<h3>PP Languages</h3>
-<p><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> </p>
+<h3 align="center">PP Languages</h3>
+<p align="center"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> </p>
 
 
 <!--
