@@ -1,6 +1,6 @@
 ⚠Under construction⚠
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=BEEFFF&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=28A0FF&height=300&section=header&text=capsule%20render&fontSize=90)
 
 
 <h2 align="center">TECHNOLOGY STACK</h2>
