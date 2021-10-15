@@ -1,6 +1,6 @@
 ⚠Under construction⚠
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=9BC3FF&height=300&section=header&text=Myeong%20Code&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=9BC3FF&height=200&section=header&text=Myeong%20Code&fontSize=60)
 
 
 <h2 align="center">📚TECHNOLOGY STACK📚</h2>
