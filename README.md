@@ -5,6 +5,9 @@
   🙌Hi! I'm MyeongGyu Woo. I majored in computer science.🖥</br> 
   I'm <strong>a Prospective developers</strong> that will growing‼.
 </p>
+<p text-size="10px">SNS</p>
+<p><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></p>
+
 </br>
 <h2 align="center">📚TECHNOLOGY STACK📚</h2>
 <p align="center">Skills that I used at <strong>least once</strong></p>
