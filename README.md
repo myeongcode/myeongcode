@@ -4,8 +4,8 @@
 
 
 <h2>
-  <p>TECHNOLOGY STACK<p>
-  <p size="10px">Skills that I used at least once</p>
+  <p align-"center">TECHNOLOGY STACK<p>
+  <p textsize="10px">Skills that I used at least once</p>
 </h2>
 
 
