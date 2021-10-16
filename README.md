@@ -2,7 +2,7 @@
 <p align="center">
   🙌Hi! I'm MyeongGyu Woo. I majored in computer science.🖥</br> 
   I'm <strong>a Prospective developers</strong> that will growing‼.
-
+</p>
 <h4 align="center">SNS</h4>
 <p align="center"><a href="https://www.instagram.com/woo__m_98/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
