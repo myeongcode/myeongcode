@@ -20,6 +20,11 @@
 <h3 align="center">PP</h3>
 <p align="center"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/> </p>
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/67165016/138144685-7efc9b54-5acb-4d8c-93c7-96928bcac6d5.png" width="50px"/>&nbsp&nbsp
+<img src="https://user-images.githubusercontent.com/67165016/138144713-aa2a3ce7-db89-45d9-9f97-1382a80eae20.png" width="50px"/>
+</p>
+
 ***
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myeongcode&theme=city_lights&show_icons=true)](https://github.com/myeongcode)
