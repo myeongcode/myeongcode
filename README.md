@@ -31,8 +31,6 @@
 
 ***
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myeongcode&theme=city_lights&show_icons=true)](https://github.com/myeongcode)
-
 
 
 
