@@ -41,12 +41,12 @@
 <p align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="25" height="25" /> 이런 성과를 내본 경험이 있습니다!</p>
 <table align="center" width="100%">
   <tr>
-    <td width="56%" align="center">
+    <td align="left">
       <strong>교내 IT협업동아리를 창설하여 40명의 구성원</strong>을 이끌었으며,<br/>
-      <strong>AI 모델 학습과 백엔드 개발까지 도맡아 프로젝트를 성공적으로 완수</strong>하여<br/>
+      <strong>AI모델 학습과 백엔드 개발까지 도맡아 프로젝트를 성공적으로 완수</strong>하여<br/>
       출시 <strong>일주일 만에 1,000명 이상의 사용자를 확보한 경험</strong>이 있습니다.
     </td>
-    <td width="44%" align="center">
+    <td align="left">
       또한, <strong>아웃소싱을 통해 업체와 협업한 사례</strong>가 있으며,<br/>
       <strong>이미지 최적화를 통해 70%의 LCP 성능을 개선</strong>하여<br/>
       사용자 경험을 극대화하는 기술적 성과를 이루었습니다.
