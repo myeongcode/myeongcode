@@ -252,17 +252,17 @@
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Open Book" width="25" height="25" /> EDUCATION</h4>
 
-> 연세대학교 미래캠퍼스 컴퓨터공학과 <br/>
+> <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> 연세대학교 미래캠퍼스 컴퓨터공학과</h3><br/>
 > 2018. 03 - 2025. 08 (졸업예정)
 >
 > 컴퓨터구조, 알고리즘, 자료구조, 네트워크 과목 학습 및 3학년 2학기 성적 최우등상 수상
 
-> Smilegate Winter Dev Camp<br/>
+> <h3>Smilegate Winter Dev Camp</h3><br/>
 > 2022. 11 - 2023.02
 >
 > 블로그 개인프로젝트 진행 및 템 프로젝트 동네 취미 매칭 플랫폼 "동세권" 프론트엔드 개발
 
-> France Grenoble 기술 창업 해외 교육<br/>
+> <h3>France Grenoble 기술 창업 해외 교육</h3><br/>
 > 2022. 07 - 2022. 08
 >
 > 기술 창업 해외교육 이수 및 NAVER Labs Europe 탐방
