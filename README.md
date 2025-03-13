@@ -200,8 +200,8 @@
   <summary>[우수상] 2024년 산학공동프로젝트 연구개발</summary>
 
   * DATE : 2024. 11. 19
-  * THEME : 
-  * ROLE : 
+  * THEME : 주식회사 엠에스플릭스 기업과 산학 협약을 맺어 사이트 개발
+  * ROLE : 프론트엔드 개발 및 관리자 페이지를 통한 사이트 이미지 순서 편집 기능 구현
 </details>
 <details>
   <summary>[장려상] 2024 창업 경진대회</summary>
