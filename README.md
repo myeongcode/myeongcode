@@ -1,7 +1,7 @@
 
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=500&text=소통과%20협업으로%20가치를%20만드는&desc=프론트엔드%20개발자%20우명규입니다&animation=fadeIn&fontSize=50&descSize=30&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=500&text=소통과%20협업으로%20가치를%20만드는&desc=프론트엔드%20개발자%20우명규입니다&animation=fadeIn&fontSize=50&descSize=30)
 
 </div>
 <h2 align="center">ABOUT ME</h4>
