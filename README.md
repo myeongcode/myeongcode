@@ -169,7 +169,7 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://myeonggyu-portfolio-bucket.s3.ap-southeast-2.amazonaws.com/Flanning.pdf">
+      <a href="https://myeonggyu-portfolio-bucket.s3.ap-southeast-2.amazonaws.com/Wonju-CITI.pdf">
         <img width="400" alt="원주 시티호텔" src="https://github.com/user-attachments/assets/ff3b07f9-da13-433f-b7e5-31156d187ea6" style="border-radius:10px;" />
       </a>
       <h4>원주 시티호텔</h4>
