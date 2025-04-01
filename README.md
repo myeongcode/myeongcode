@@ -75,9 +75,6 @@
         <img src="https://skillicons.dev/icons?i=js" width="40" /><br>JavaScript
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=ts" width="40" /><br>TypeScript
-      </td>
-      <td align="center">
         <img src="https://skillicons.dev/icons?i=python" width="40" /><br>Python
       </td>
     </tr>
