@@ -95,9 +95,6 @@
         <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" width="40" /><br>Next.js
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="40" /><br>React Native
-      </td>
-      <td align="center">
         <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" width="40" /><br>Tailwindcss
       </td>
     </tr>
@@ -113,12 +110,6 @@
       </td>
       <td align="center">
         <img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mariadb.png" width="40"/><br>MariaDB
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" width="40" /><br>AWS
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" width="40" /><br>Firebase
       </td>
     </tr>
   </table>
